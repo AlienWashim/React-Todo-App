@@ -37,9 +37,3 @@ I’ve created a short video demonstrating how this Todo App works.
 - Working with TypeScript for type safety
 - Using Bootstrap and layout utilities
 - Creating reusable components and handling user events
-
-# Install dependencies
-npm install
-
-# Run the project
-npm start
