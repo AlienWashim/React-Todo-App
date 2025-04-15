@@ -19,7 +19,7 @@ This Todo App allows users to add, edit, delete, and mark tasks as complete. It 
 ## 🎥 Project Demo
 
 I’ve created a short video demonstrating how this Todo App works.  
-👉 Watch here: [YouTube Demo Video](https://youtu.be/0EWiec0R9tw)
+👉 Watch here: [YouTube Demo Video](https://www.youtube.com/watch?v=0EWiec0R9tw)
 
 ## 📂 Features
 
